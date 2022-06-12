@@ -1,0 +1,3 @@
+/EmpWage/.vs
+/EmpWage/EmpWage/bin/
+/EmpWage/EmpWage/obj/
